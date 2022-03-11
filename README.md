@@ -2,7 +2,7 @@
 
 📝 중앙대학교 2학년 1학기 수료, (군휴학)
 
-🛠 C, JAVA, Cpp, Python, kotlin
+🛠 C, JAVA, Cpp, Python, Kotlin
 
 💻 알고리즘 문제 풀기, 교내 프로젝트 등을 통해 언어를 학습하였습니다.
 
