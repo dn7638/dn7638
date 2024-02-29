@@ -1,4 +1,4 @@
-📝 중앙대학교 3학년 1학기 수료, 3학년 2학기 재학중
+📝 중앙대학교 3학년 2학기 수료, 4학년 1학기 재학중
 
 🛠 C, Java, Cpp, Python, Kotlin, JavaScript, TypeScript
 
